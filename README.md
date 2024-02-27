@@ -3,8 +3,8 @@
 ### Code convention
 - table name: `MyTable`
 - table column: `MyColumn`
-- table primary key: `PK_MyTableID` or `Id`
-- table foreign key: `FK_MyTable_ForeignTableID` or `ForeignTableId`
+- table primary key: `TableId`
+- foreign key constrain: `FK_MyTable_ForeignTableId`
 - column check constraint: `CK_MyTable_MyColumn`
 - view name: `VI_LogicalName`
 - stored procedure: `usp_LogicalName`
